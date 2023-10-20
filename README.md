@@ -7,6 +7,6 @@ To gain more practical knowledge, I'm seeking out foundational tutorials to code
 
 **Simple neural network project taught by [ElliotCodes](https://github.com/MaeYoungPhan/basicNeuralNetwork.git)**
 
-If you'd like to chat more about ML, AI, or anything else, hit me up on [LinkedIn](https://www.linkedin.com/in/maeyoungphan/)
+If you'd like to chat more about ML, AI, or anything else, hit me up on **[LinkedIn](https://www.linkedin.com/in/maeyoungphan/)**
 
 Happy Coding 😺
