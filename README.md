@@ -1,5 +1,5 @@
 # Basic Neural Network
-I'm facsinated with the capabilities and potential within the field of AI and Machine Learning.
+I'm fascinated with the capabilities and potential within the field of AI and Machine Learning.
 
 I enjoy thinking about both the practical application and development, as well as, the psychological and ethical implications. Blame it on a life-long fascination with how the human mind works, building a mind for a computer seems dope.
 
