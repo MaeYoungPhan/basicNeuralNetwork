@@ -5,7 +5,7 @@ I enjoy thinking about both the practical application and development, as well a
 
 To gain more practical knowledge, I'm seeking out foundational tutorials to code some simple models. This is one of the most basic ones I found. If you'd like to try it yourself, the link is below. Please note, the code in main.py includes lots of notes I made for my own reference as comments. 
 
-**Simple neural network project taught by [ElliotCodes](https://github.com/MaeYoungPhan/basicNeuralNetwork.git)**
+**Simple neural network project taught by [ElliotCodes](https://youtu.be/Gk_5I6YG_Jw?si=8PAe9vluAHiKkXvr)**
 
 If you'd like to chat more about ML, AI, or anything else, hit me up on **[LinkedIn](https://www.linkedin.com/in/maeyoungphan/)**
 
